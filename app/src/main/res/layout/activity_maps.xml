@@ -78,7 +78,7 @@
             android:layout_marginBottom="16dp"
             android:layout_marginEnd="20dp"
             android:backgroundTint="@color/quantum_bluegrey100"
-            android:src="@drawable/addtoilet" />
+            android:src="@drawable/addtoiletbaru" />
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/fabMyAccount"

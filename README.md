@@ -46,6 +46,7 @@ Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan ja
 3. Pengguna dapat memberi review
 
 ## User Story
+* Sebagai mahasiswa IPB, saya ingin mengetahui jam operasional dan detail dari toilet-toilet di IPB agar toilet yang saya kunjungi merupakan toilet yang sedang beroperasi pada waktunya
 
 ## Use Case Diagram
 ![RPLTINDERUSECASE](https://user-images.githubusercontent.com/60166788/82266950-4a109900-9995-11ea-8667-7c0b660e4767.png)
@@ -69,8 +70,12 @@ Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan ja
 ![RPLERD](https://user-images.githubusercontent.com/60166788/82265017-3adb1c80-9990-11ea-9c13-6d1ed99468d5.png)
 # Hasil Implementasi Perangkat Lunak
 ## Halaman Login
-![Halaman Login](img/GANTT.png)
+![Halaman Login](img/H_LOGIN.png)
 ## Halaman Register
-![Halaman Register](img/GANTT.png)
+![Halaman Register](img/H_REGISTER.png)
 ## Maps
-![Maps](img/GANTT.png)
+![Maps](img/MAPS.png)
+## Tambah Toilet
+![Tambah Toilet](img/H_ADD_TOILET.png)
+## terima toilet
+![APPROVE](img/H_APPROVE_TOILET.png)
