@@ -67,6 +67,6 @@ Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan ja
 ## ERD
 ![RPLERD](https://user-images.githubusercontent.com/60166788/82265017-3adb1c80-9990-11ea-9c13-6d1ed99468d5.png)
 # Hasil Implementasi Perangkat Lunak
-![Halaman Login]
-![Halaman Register]
-![Maps]
+![Halaman Login](img/GANTT.png)
+![Halaman Register](img/GANTT.png)
+![Maps](img/GANTT.png)
