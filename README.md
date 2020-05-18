@@ -55,9 +55,16 @@ Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan ja
 ![UseCaseDescription](img/UCD3.png)
 
 ## Activity Diagram
+![ActivityDiagram](img/AD1.png)
+![ActivityDiagram](img/AD2.png)
+![ActivityDiagram](img/AD3.png)
+![ActivityDiagram](img/AD4.png)
+![ActivityDiagram](img/AD5.png)
 
 ## Gantt Chart
+![GanttChart](img/GANTT.png)
 
 ## ERD
+![ERD](img/ERD.png)
 
 # Hasil Implementasi Perangkat Lunak
