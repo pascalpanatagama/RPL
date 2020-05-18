@@ -79,3 +79,7 @@ Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan ja
 ![Tambah Toilet](img/H_ADD_TOILET.png)
 ## terima toilet
 ![APPROVE](img/H_APPROVE_TOILET.png)
+## Halaman Details
+![Details](img/H_DETAILS.png)
+## Halaman isi review
+![isi review](img/H_ISI_REVIEW.png)
