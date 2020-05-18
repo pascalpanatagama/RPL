@@ -93,8 +93,15 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnMarker
         }
 
         fabAddToilet.setOnClickListener{
-            Intent(this, AddToiletActivity::class.java).also {
-                startActivity(it)
+            val usernameFromSharedPref = sharedPref.getString("username", "")
+            if(usernameFromSharedPref == ""){
+                Intent(this, LoginActivity::class.java).also {
+                    startActivity(it)
+                }
+            }else {
+                Intent(this, AddToiletActivity::class.java).also {
+                    startActivity(it)
+                }
             }
         }
 

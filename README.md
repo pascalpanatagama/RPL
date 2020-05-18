@@ -48,6 +48,7 @@ Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan ja
 ## User Story
 
 ## Use Case Diagram
+![RPLTINDERUSECASE](https://user-images.githubusercontent.com/60166788/82266950-4a109900-9995-11ea-8667-7c0b660e4767.png)
 
 ## Use Case Description
 ![UseCaseDescription](img/UCD1.png)
@@ -67,3 +68,9 @@ Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan ja
 ## ERD
 ![RPLERD](https://user-images.githubusercontent.com/60166788/82265017-3adb1c80-9990-11ea-9c13-6d1ed99468d5.png)
 # Hasil Implementasi Perangkat Lunak
+## Halaman Login
+![Halaman Login](img/GANTT.png)
+## Halaman Register
+![Halaman Register](img/GANTT.png)
+## Maps
+![Maps](img/GANTT.png)
