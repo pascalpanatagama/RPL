@@ -48,6 +48,12 @@ class AddToiletActivity: AppCompatActivity() {
 
         getLastKnownLocation()
 
+        ibBackAddToilet.setOnClickListener{
+            Intent(this, MapsActivity::class.java).also {
+                startActivity(it)
+            }
+        }
+
         btnAddToilet.setOnClickListener{
             val nama = tname.text.toString()
             val jam_buka = topenTime.text.toString()
