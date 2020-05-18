@@ -134,7 +134,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnMarker
 
         cvMap.visibility = View.GONE
 
-        val url = "http://10.0.2.2/toilet_finder/toilet/read.php"
+        val url = "http://192.168.100.14/toilet_finder/toilet/read.php"
 
         val jsonObject = JSONArray()
         val request = JsonArrayRequest(Request.Method.POST, url, jsonObject,

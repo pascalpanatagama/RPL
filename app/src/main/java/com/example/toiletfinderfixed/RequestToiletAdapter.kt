@@ -31,7 +31,7 @@ class RequestToiletAdapter(var ctx: Context, var todosReq : List<RequestToilet>)
 //            Log.d("TOILETID", "${todosReq[position].id_toilet}")
 
             ibDeleteReq.setOnClickListener {
-                val url = "http://10.0.2.2/toilet_finder/toilet/delete.php"
+                val url = "http://10.0.2.2/toilet_finder/toilet_finder/toilet/delete.php"
                 val params = HashMap<String, String>()
                 params["id_toilet"] = todosReq[position].id_toilet
 

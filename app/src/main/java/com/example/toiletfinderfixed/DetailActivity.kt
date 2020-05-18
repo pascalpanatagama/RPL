@@ -38,7 +38,7 @@ class DetailActivity : AppCompatActivity() {
             Response.Listener{response ->
                 var ratings = response.getJSONArray("ratings")
                 var toiletList = mutableListOf<Toilet>()
-//                Log.d("TEST", ratings.getJSONObject(0).toString())
+                //Log.d("TESTjson", ratings.getJSONObject(0).toString())
                 for (i in 0 until ratings.length()) {
                     toiletList.add(
                         Toilet(
@@ -108,14 +108,14 @@ class DetailActivity : AppCompatActivity() {
 
 
             })
-            request.retryPolicy = DefaultRetryPolicy(
-                DefaultRetryPolicy.DEFAULT_TIMEOUT_MS,
-                // 0 means no retry
-                0, // DefaultRetryPolicy.DEFAULT_MAX_RETRIES = 2
-                1f // DefaultRetryPolicy.DEFAULT_BACKOFF_MULT
-            )
+        request.retryPolicy = DefaultRetryPolicy(
+            DefaultRetryPolicy.DEFAULT_TIMEOUT_MS,
+            // 0 means no retry
+            0, // DefaultRetryPolicy.DEFAULT_MAX_RETRIES = 2
+            1f // DefaultRetryPolicy.DEFAULT_BACKOFF_MULT
+        )
 
-            VolleySingleton.getInstance(this).addToRequestQueue(request)
+        VolleySingleton.getInstance(this).addToRequestQueue(request)
 
     }
 
