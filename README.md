@@ -50,6 +50,9 @@ Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan ja
 ## Use Case Diagram
 
 ## Use Case Description
+![UseCaseDescription](img/UCD1.png)
+![UseCaseDescription](img/UCD2.png)
+![UseCaseDescription](img/UCD3.png)
 
 ## Activity Diagram
 
