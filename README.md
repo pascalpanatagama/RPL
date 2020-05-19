@@ -74,7 +74,7 @@ Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan ja
 ## Halaman Register
 ![Halaman Register](img/H_REGISTER.png)
 ## User Main Menu
-![Screenshot_1589889708](https://user-images.githubusercontent.com/60166788/82324645-2b95b680-9a04-11ea-8607-ef6efd2c7aeb.png)
+
 ## Admin Main Menu
 ![Maps](img/MAPS.png)
 ## Tambah Toilet
