@@ -35,7 +35,7 @@ Toilet umum merupakan salah satu fasilitas umum yang disediakan oleh IPB. Toilet
 Aplikasi ini bertujuan untuk menginformasikan lokasi dan detail jam operasional untuk mengakses/menggunakan toilet umum di IPB.
 
 ## Ruang Lingkup
-
+Ruang lingkup dari pembuatan aplikasi ini yaitu setiap lokasi toilet umum di IPB yang dapat diakses/digunakan oleh mahasiswa IPB
 
 ## Deskripsi Perangkat Lunak
 Aplikasi mobile android untuk mencari lokasi toilet umum dan menginformasikan jam operasionalnya di kampus IPB. Detail aplikasi ini meliputi lokasi-lokasi toilet umum, jam operasional, ulasan dan rating dari pengguna.
